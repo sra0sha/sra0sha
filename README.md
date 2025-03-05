@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 My name is Soroush  
 
 🚀 **About Me**  
 - 🎓 Computer Engineering student  
@@ -11,8 +11,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](your-twitter-url)  
 
 📊 **GitHub Stats**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sra0sha&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sra0sha&layout=compact&theme=tokyonight)  
 
 ---
 
