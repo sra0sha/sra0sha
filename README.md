@@ -20,8 +20,8 @@
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sra0sha&show_icons=true&theme=radical&count_private=true)
+## 🛠️ Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sra0sha&layout=compact&theme=radical)
-
 ---
 
 ## 🌐 **Connect with Me**
