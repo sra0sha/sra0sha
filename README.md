@@ -21,8 +21,8 @@
 ## 📈 **GitHub Stats**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sra0sha&show_icons=true&theme=radical)
 📊 **GitHub Stats gpt**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sra0sha&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sra0sha&layout=compact&theme=tokyonight)  
 
 ---
 
