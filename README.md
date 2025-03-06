@@ -29,7 +29,7 @@
 ## 📫 **How to reach me:**
 Let’s connect and collaborate!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:83soroush83@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blank@gmail.com)
 ![Discord](https://img.shields.io/badge/Discord-ca1astrophe-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
