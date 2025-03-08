@@ -9,7 +9,8 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Tools & Technologies
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -21,7 +22,7 @@
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sra0sha&show_icons=true&theme=radical&count_private=true)
 
-## 🛠️ Top Languages
+## 📃 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sra0sha&layout=compact&theme=radical)
 
 ---
@@ -36,4 +37,5 @@ Let’s connect and collaborate!
 
 ## 📚 **Currently Learning**
 - **Advanced C++ Concepts**
+- **Data Structures**
 - **Strategy building with Python**
